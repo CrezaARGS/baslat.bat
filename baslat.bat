@@ -1,6 +1,6 @@
 echo off
-title Jspanco Turkce Bot
-color c
+title Xra
+color 4
 cls
 :a
 node index.js
