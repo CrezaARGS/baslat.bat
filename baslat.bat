@@ -1,5 +1,5 @@
 echo off
-title Xra
+title Creza
 color 4
 cls
 :a
